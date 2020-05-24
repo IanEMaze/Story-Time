@@ -1,0 +1,46 @@
+body {
+    background-color: dodgerblue;
+    
+}
+
+header {
+    border-radius: 20px 0 20px 0;
+    border: 5px solid black;
+    background-color: cadetblue;
+}
+
+h1 {
+    padding-left: 40%;
+}
+
+h3 {
+    margin-left: 42%;
+    width: 15%;
+    border-bottom: 1px solid black;
+}
+
+#center_me {
+    margin-top: -1.5em;
+    text-align: center;
+}
+
+#display_box {
+    margin: auto;
+    border: 2px solid black;
+    width: 80%;
+    height: 70%;
+}
+
+.container {
+    border-radius: 20px 0 20px 0;
+    border: 5px solid black;
+    height: 78vh;
+    background-color: cadetblue;
+}
+
+
+#my_button {
+    margin-left: 42%;
+    margin-top: 13%;
+    padding: 1.5%;
+}
